@@ -1,0 +1,5 @@
+/main/private.c
+/build
+*.~undo-tree~
+/.cache/
+/samples/
